@@ -97,4 +97,4 @@ def navigate_to_page1(click_data):
         return '/page1'
 
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run_server(debug=True, port = 8051)
