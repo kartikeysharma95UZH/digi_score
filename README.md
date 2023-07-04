@@ -88,12 +88,5 @@ python geography.py
 
 The dataset used for this project is locations_100.csv, which contains information about website locations and their digital scores.
 
-## **Technologies Used**
 
-
-- Python
-- Pandas
-- Plotly
-- Dash
-- Dash Bootstrap Components
 
