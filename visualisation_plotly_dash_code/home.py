@@ -56,9 +56,9 @@ app.layout = dbc.Container(
                             style={
                                 "marginTop": " 10px",
                                 "marginBottom": "10px",
-                                "marginLeft": "430px",
+                                "marginLeft": "40px",
                             },
-                            width=3,
+                            width=5,
                         ),
                         dcc.Graph(id="status-graph"),
                         html.H2("Website Count by Category and Thresholds"),
@@ -89,7 +89,7 @@ app.layout = dbc.Container(
                                 ],
                             ),
                             width=5,
-                            style={"marginLeft": "330px"}
+                            style={"marginLeft": "130px"}
                         ),
                     ]
                 ),
@@ -165,4 +165,4 @@ def subset_data(date_selected):
 
 
 if __name__ == "__main__":
-    app.run_server(debug=True, port = 8052)
+    app.run_server(debug=True, port = 8050)

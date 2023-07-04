@@ -135,7 +135,7 @@ def display_website_info(click_data):
 
 # Run the Dash application
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run_server(debug=True, port = 8053)
 
 
 # import pandas as pd
