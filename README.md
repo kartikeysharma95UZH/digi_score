@@ -1,6 +1,6 @@
-# Digital Score Analysis Dashboard
+# Digital Score Analysis Methodology 
 
-This dashboard provides visualizations and insights on the average digital scores of websites across different countries. It includes a world map visualization, a bar chart for individual countries, and additional information on the websites of selected countries.
+To develop a methodology to assess and visualize the digitization level of communities based on their website features.
 
 
 ## Data Scraping
