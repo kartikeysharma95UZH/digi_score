@@ -2,7 +2,16 @@
 
 This dashboard provides visualizations and insights on the average digital scores of websites across different countries. It includes a world map visualization, a bar chart for individual countries, and additional information on the websites of selected countries.
 
-## Features
+
+## Data Scraping
+
+Different .ipynb notebooks were created for scraping data for different features
+
+## Digitisation Score Calculation
+
+**xgboost.ipynb**  provides the intuition on how an ML model can be trained on these features to learn the weights. These weights can then be used to provide the digitisation scores to the websites based on the data scraped through the individual .ipynb scripts
+
+## Visualisation features
 
 - Count of websites in different categories - Poor, Average, Good
 - Slider to navigate between any ranges of digital scores and drill down to view specific features
