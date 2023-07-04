@@ -52,18 +52,24 @@ python home.py
 ```shell
 python page1.py
 ```
+![Image Description](images/page1.png)
+
 
 ```shell
 python linechart.py
 ```
+![Image Description](images/linechart.png)
 
 ```shell
 python over_time.py
 ```
+![Image Description](images/over_time.png)
 
 ```shell
 python geography.py
 ```
+![Image Description](images/geography.png)
+![Image Description](images/geography_2.png)
 
 ## Dataset
 
