@@ -3,15 +3,15 @@
 To develop a methodology to assess and visualize the digitization level of communities based on their website features.
 
 
-## Data Scraping
+### Data Scraping
 
 Different .ipynb notebooks were created for scraping data for different features
 
-## Digitisation Score Calculation
+### Digitisation Score Calculation
 
 **xgboost.ipynb**  provides the intuition on how an ML model can be trained on these features to learn the weights. These weights can then be used to provide the digitisation scores to the websites based on the data scraped through the individual .ipynb scripts
 
-## Visualisation features
+### Visualisation features
 
 - Count of websites in different categories - Poor, Average, Good
 - Slider to navigate between any ranges of digital scores and drill down to view specific features
