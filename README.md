@@ -46,7 +46,7 @@ To run the Dash application, use the following command:
 ```shell
 python home.py
 ```
-![Image Description](/Users/kartikeysharma/github_repositories/digi_score/home.png)
+![Image Description](/Users/kartikeysharma/github_repositories/digi_score/images/home.png)
 
 
 ```shell
