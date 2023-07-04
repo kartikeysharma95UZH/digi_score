@@ -1,7 +1,6 @@
-# Digital Score Analysis Methodology 
+# Assessing Digitalization of European Communities
 
-To develop a methodology to assess and visualize the digitization level of communities based on their website features.
-
+To develop a methodology to measure and visualize the digitization level of communities based on their website features.
 
 ### **Data Scraping**
 
