@@ -22,7 +22,7 @@ git clone https://github.com/kartikeysharma95UZH/digi_score.git
 
 - Navigate to the project directory:
 ```shell
-cd digi_score/python app.py
+cd digi_score/visualisation_plotly_dash_code
 ```
 
 ### Create and activate a virtual environment (optional, but recommended):
@@ -45,6 +45,22 @@ To run the Dash application, use the following command:
 
 ```shell
 python home.py
+```
+
+```shell
+python page1.py
+```
+
+```shell
+python linechart.py
+```
+
+```shell
+python over_time.py
+```
+
+```shell
+python geography.py
 ```
 
 ## Dataset
