@@ -26,7 +26,7 @@ Different .ipynb notebooks were created for scraping data for different features
 
 
 ```shell
-git clone https://github.com/kartikeysharma95UZH/digi_score.git
+git clone git@github.com:kartikeysharma95UZH/digi_score.git
 ```
 
 ### **Setting up the Environment**
