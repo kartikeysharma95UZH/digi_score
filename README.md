@@ -4,6 +4,9 @@ This dashboard provides visualizations and insights on the average digital score
 
 ## Features
 
+- Count of websites in different categories - Poor, Average, Good
+- Slider to navigate between any ranges of digital scores and drill down to view specific features
+- How websites digitisation changes over time
 - Interactive world map showing the average digital score by country
 - Bar chart displaying the digital score distribution for each country
 - Clicking on a country in the world map updates the bar chart and displays the websites for that country
